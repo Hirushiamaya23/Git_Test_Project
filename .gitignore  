@@ -1,0 +1,17 @@
+# Ignore text files and backup files
+*.txt
+*~
+
+# Ignore compiled files
+*.o
+*.out
+*.class
+*.pyc
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+
