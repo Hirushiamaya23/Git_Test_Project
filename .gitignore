@@ -1,0 +1,10 @@
+*.txt
+*.log
+*.pyc
+*.class
+*.o
+*.exe
+*.jpeg
+*.png
+
+
