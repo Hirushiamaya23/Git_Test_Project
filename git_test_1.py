@@ -1,4 +1,12 @@
-Python 3.13.1 (v3.13.1:06714517797, Dec  3 2024, 14:00:22) [Clang 15.0.0 (clang-1500.3.9.4)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> print("I am somewhat familiar with Git.")
-I am somewhat familiar with Git.
+<<<<<<< HEAD
+print("This is a new change to test Git versioning!")
+print("This change was made in the development branch!")
+print("This line is only in the development branch!")
+print("This line is only in the development branch!")
+
+
+
+
+=======
+print('Hello from main branch')
+>>>>>>> 45f0aff (Add git_test_1.py on main branch)
